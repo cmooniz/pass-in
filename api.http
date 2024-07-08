@@ -2,7 +2,7 @@ POST http://localhost:3333/events
 Content-Type: application/json
 
 {
-  "title": "rest two client",
-  "details": "teste do rest client",
+  "title": "testando zod 4",
+  "details": "teste do zod 4",
   "maximumAttendees": 100
 }

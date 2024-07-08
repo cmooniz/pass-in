@@ -19,3 +19,4 @@ model Event {
 
   @@map("events") // o nome que eu quero pra minha tabela
 }
+
